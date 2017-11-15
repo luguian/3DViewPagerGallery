@@ -4,9 +4,7 @@ import android.graphics.Camera;
 import android.support.v4.view.ViewPager;
 import android.view.View;
 
-/**
- * Created by Evan Zeng on 2016/8/18.
- */
+
 
 public class MyTransformation implements ViewPager.PageTransformer {
 

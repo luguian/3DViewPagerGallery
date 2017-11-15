@@ -12,9 +12,6 @@ import android.graphics.PorterDuff;
 import android.graphics.PorterDuffXfermode;
 import android.graphics.Shader;
 
-/**
- * Created by Administrator on 2016/8/20.
- */
 
 public class ImageUtil {
     public static Bitmap getReverseBitmapById(int resId, Context context){
